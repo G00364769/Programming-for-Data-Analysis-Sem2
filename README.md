@@ -28,7 +28,7 @@
 
  -  Click to Assignment.ipynb
 
-### Reference
+### References
  - http://memobio2015.u-strasbg.fr/conference/FICHIERS/Documentation/doc-numpy-html/reference/routines.random.html
 
 - http://en.wikipedia.org/wiki/Noncentral_chi-square_distribution
