@@ -8,7 +8,7 @@
     
  - Jupyter notebook package
 
-Steps to run the Project
+### Steps to run the Project
 
  - Click the below url 
 
@@ -30,7 +30,7 @@ Steps to run the Project
 
  - And click to Assignment.ipynb
 
-Refrence
+### Refrence
  - http://memobio2015.u-strasbg.fr/conference/FICHIERS/Documentation/doc-numpy-html/reference/routines.random.html
 
 - http://en.wikipedia.org/wiki/Noncentral_chi-square_distribution
