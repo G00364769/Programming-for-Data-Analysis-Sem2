@@ -1,6 +1,6 @@
  # Programming-for-Data-Analysis
 
-## Software Requirmemt
+## Software Requirments
 
  - Anaconda 5.3
     
@@ -12,25 +12,23 @@
 
  - Click the below url 
 
- - https://github.com/G00364769/Programming-for-Data-Analysis-Sem2
+ https://github.com/G00364769/Programming-for-Data-Analysis-Sem2
 
- - Click to clone or Download Button
+ - Right corner Click to clone or Download Button
 
  - It will display one bar in that click to Download Zip
 
- - It will copy all file in zip folder
-
 - Now from zip folder UnZip and extract folder anywhere in system (Make a not of that path)
 
- - Now from run type Jupyter notebook
+ - Type Jupyter notebook using run command
 
  - The Juypter notebook will display the directory/folder 
 
  - Go to the path where you unzip the file 
 
- - And click to Assignment.ipynb
+ -  Click to Assignment.ipynb
 
-### Refrences
+### Reference
  - http://memobio2015.u-strasbg.fr/conference/FICHIERS/Documentation/doc-numpy-html/reference/routines.random.html
 
 - http://en.wikipedia.org/wiki/Noncentral_chi-square_distribution
