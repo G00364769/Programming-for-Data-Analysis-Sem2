@@ -1,6 +1,6 @@
  # Programming-for-Data-Analysis
 
-## Softwares Requirmemt
+## Software Requirmemt
 
  - Anaconda 5.3
     
@@ -30,7 +30,7 @@
 
  - And click to Assignment.ipynb
 
-### Refrence
+### Refrences
  - http://memobio2015.u-strasbg.fr/conference/FICHIERS/Documentation/doc-numpy-html/reference/routines.random.html
 
 - http://en.wikipedia.org/wiki/Noncentral_chi-square_distribution
