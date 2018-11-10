@@ -14,9 +14,9 @@
 
  - https://github.com/G00364769/Programming-for-Data-Analysis-Sem2
 
- - After going to url, Click to clone or Download Button
+ - Click to clone or Download Button
 
- - After Click it will display one bar in that click to Download Zip
+ - It will display one bar in that click to Download Zip
 
  - It will copy all file in zip folder
 
